@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180701232833",
+    "project_id": "a3soft-gps",
+    "storage_bucket": "a3soft-gps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180701232833:android:decd193fb7ffa1efc51e40",
+        "android_client_info": {
+          "package_name": "com.bilkovic.a3soft_gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180701232833-6tnqbnr2vvh099vv3ug309aqqpf9tf2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApB3-h2vIMXjR7LlNPLZvBo6n90qOFrjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180701232833-6tnqbnr2vvh099vv3ug309aqqpf9tf2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
